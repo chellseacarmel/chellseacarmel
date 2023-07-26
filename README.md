@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Chellsea Carmel Robinson </h1>
+<h1 align="left">Hi 👋, I'm Chellsea Carmel Robinson! </h1>
 
 <!--
 **chellseacarmel/chellseacarmel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +29,9 @@ such as GitHub, Figma, Postman, DB2, Hadoop, Spark, Tableau and libraries such a
 
 💬 You can reach me at chellsea.robinson@stonybrook.edu as well as connect with me on <a href="https://www.linkedin.com/in/chellsea-carmel-robinson/">LinkedIn</a>.
 
+
+
+
 <h2> My Tech Stack 🛠<h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -55,6 +58,7 @@ such as GitHub, Figma, Postman, DB2, Hadoop, Spark, Tableau and libraries such a
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=#F24E1E)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=#FF6C37)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apachehadoop&logoColor=#66CCFF)
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=#E97627)
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=spark)
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy&logoColor=#013243)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas&logoColor=#150458)
@@ -62,8 +66,4 @@ such as GitHub, Figma, Postman, DB2, Hadoop, Spark, Tableau and libraries such a
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=#5C3EE8)
 ![DB2](https://img.shields.io/badge/-DB2-05122A?style=flat&logo=db2&logoColor=#FF6C37)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=#4479A1)
-
-
-
-
 
