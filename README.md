@@ -22,8 +22,7 @@ in my undergraduate degree in Computer Science and Applied Mathematics and Stati
 as a Junior Data Scientist. I have also served as an Undergraduate Teaching Assistant for Calculus 3 and 4.
 
 💻 I am greatly passionate about Data Science and Analytics, Machine Learning and Full Stack Development (MERN stack). 
-I am skilled in programming languages such as Java, Python, JavaScript,SQL, HTML, Assembly and C as well as technologies
-such as GitHub, Figma, Postman, DB2, Hadoop, Spark, Tableau and libraries such as D3.js, Scikit- Learn, Numpy, Pandas.
+I enjoy working on projects which are applicative and data driven.
 
 🏔 In my free time you can find me reading, traveling, cooking/baking or tinkering with new technology.
 
