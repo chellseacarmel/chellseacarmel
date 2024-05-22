@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I am currently a graduate student at Stony Brook University in Computer Science. I have also graduated with honors 
+🎓 I have recently graduated with a Masters in Computer Science from Stony Brook University. I have also graduated with honors 
 in my undergraduate degree in Computer Science and Applied Mathematics and Statistics from Stony Brook University.
 
-📚 I am also currently a Graduate Research Assistant at Stony Brook University and have also interned at Akai Kaeru 
-as a Junior Data Scientist. I have also served as an Undergraduate Teaching Assistant for Calculus 3 and 4.
+📚 I am currently a Junior Software Engineer Intern at Aeyesafe. I have previously served as Graduate Research Assistant at Stony Brook University and have also interned at Akai Kaeru as a Junior Data Scientist. I have also served as an Undergraduate Teaching Assistant for Calculus 3 and 4.
 
-💻 I am greatly passionate about Data Science and Analytics, Machine Learning and Full Stack Development (MERN stack). 
+💻 I am greatly passionate about Full Stack Development (MERN stack), Data Science and Analytics and Machine Learning. 
 I enjoy working on projects which are applicative and data driven.
 
 🏔 In my free time you can find me reading, traveling, cooking/baking or tinkering with new technology.
