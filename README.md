@@ -39,6 +39,7 @@ I enjoy working on projects which are applicative and data driven.
 ![OCaml](https://img.shields.io/badge/-OCaml-05122A?style=flat&logo=ocaml&logoColor=#EC6813)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=#EC6813)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)&nbsp;
 ![D3.js](https://img.shields.io/badge/-D3.js-05122A?style=flat&logo=d3dotjs&logoColor=#F9A03C)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
