@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🏔 Outside of work, you can find me reading, traveling, experimenting with new cooking and baking recipes, or tinkering with new technology.
 
-💬 You can reach me at chellsea.robinson@stonybrook.edu as well as connect with me on <a href="https://www.linkedin.com/in/chellsea-carmel-robinson/">LinkedIn</a>.
+💬 You can reach me at ccrobinson@cs.stonybrook.edu as well as connect with me on <a href="https://www.linkedin.com/in/chellsea-carmel-robinson/">LinkedIn</a>.
 
 
 <h2> My Tech Stack 🛠<h2>
