@@ -15,19 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I have recently graduated with a Masters in Computer Science from Stony Brook University. I have also graduated with honors 
-in my undergraduate degree in Computer Science and Applied Mathematics and Statistics from Stony Brook University.
+💼 I am currently a Software Developer at Xforia. Previously, I served as a Junior Software Engineering Intern at Aeyesafe, and as a Graduate Research Assistant - Software Engineer at Stony Brook University. I’ve also interned as a Junior Data Scientist at Akai Kaeru and worked as an Undergraduate Teaching Assistant for Calculus 3 and 4.
 
-📚 I am currently a Junior Software Engineer Intern at Aeyesafe. I have previously served as Graduate Research Assistant at Stony Brook University and have also interned at Akai Kaeru as a Junior Data Scientist. I have also served as an Undergraduate Teaching Assistant for Calculus 3 and 4.
+🎓 I hold a Master's degree in Computer Science from Stony Brook University, where I also earned my Bachelor's in Computer Science and Applied Mathematics and Statistics and graduated with honors.
 
-💻 I am greatly passionate about Full Stack Development (MERN stack), Data Science and Analytics and Machine Learning. 
-I enjoy working on projects which are applicative and data driven.
+💻 I am passionate about Software Engineering, Full Stack Development, and AI. I have hands-on experience with a variety of technologies, including Python, JavaScript, Java, SQL, HTML, Assembly, and C. I’m also proficient in tools and libraries such as GitHub, Figma, Postman, DB2, Hadoop, Spark, Tableau, React.js, Next.js, Node.js, D3.js, Scikit-Learn, Numpy, and Pandas.
 
-🏔 In my free time you can find me reading, traveling, cooking/baking or tinkering with new technology.
+🏔 Outside of work, you can find me reading, traveling, experimenting with new cooking and baking recipes, or tinkering with new technology.
 
 💬 You can reach me at chellsea.robinson@stonybrook.edu as well as connect with me on <a href="https://www.linkedin.com/in/chellsea-carmel-robinson/">LinkedIn</a>.
-
-
 
 
 <h2> My Tech Stack 🛠<h2>
