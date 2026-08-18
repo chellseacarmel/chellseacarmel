@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💼 I am currently a Software Developer at Xforia. Previously, I served as a Junior Software Engineering Intern at Aeyesafe, and as a Graduate Research Assistant - Software Engineer at Stony Brook University. I’ve also interned as a Junior Data Scientist at Akai Kaeru and worked as an Undergraduate Teaching Assistant for Calculus 3 and 4.
+💼 I am currently a Software Developer at Xforia. 
 
 🎓 I hold a Master's degree in Computer Science from Stony Brook University, where I also earned my Bachelor's in Computer Science and Applied Mathematics and Statistics and graduated with honors.
 
